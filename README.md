@@ -6,8 +6,14 @@
 
 ## Rhytica について
 
-Rhytica の概要・特徴などは以下をご参照ください：  
+Rhytica の概要・特徴・説明などは以下をご参照ください：  
 [Rhytica – BMS Format Notes Editor – | Tea Sound Project](https://www.cyane.info/rhytica/)
+
+---
+
+## ダウンロード
+
+[Release](https://github.com/lscyane/Rhytica/releases/latest) から、Rhytica_(バージョン番号).zip をダウンロードしてください。
 
 ---
 
@@ -18,6 +24,8 @@ Rhytica に関する報告・提案・質問は、 **Discussions** の
 - [バグ報告](https://github.com/lscyane/Rhytica/discussions/categories/bug-report)  
 - [機能要望](https://github.com/lscyane/Rhytica/discussions/categories/ideas)
 - [使い方・質問](https://github.com/lscyane/Rhytica/discussions/categories/q-a)
+
+又は、[X@lscyane](https://x.com/lscyane) に投げてもらっても構いません。
 
 ---
 
